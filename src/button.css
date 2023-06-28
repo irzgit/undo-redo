@@ -1,0 +1,21 @@
+.btn-add {
+    position: absolute;
+    z-index: 10;
+    top: 10px;
+    left: 10px;
+  }
+.btn-undo {
+    position: absolute;
+    z-index: 10;
+    top: 40px;
+    left: 10px;
+}
+.btn-redo {
+  position: absolute;
+  z-index: 10;
+  top: 60px;
+  left: 10px;
+}
+
+  
+  
